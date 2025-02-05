@@ -33,13 +33,13 @@ Kite AI - Counter Dapp is a decentralized application (dApp) built with **Kite A
    npm run dev
    ```
 
-## KiteAI Testnet network settings**
+## KiteAI Testnet network settings
 
-- **Chain Name:** KiteAI Testnet  
-- **Default RPC URL:** [https://rpc-testnet.gokite.ai/](https://rpc-testnet.gokite.ai/)  
-- **Chain ID:** 2368  
-- **Token:** KITE  
-- **Block Explorer URL:** [https://testnet.kitescan.ai/](https://testnet.kitescan.ai/)  
+- Chain Name: KiteAI Testnet  
+- Default RPC URL: [https://rpc-testnet.gokite.ai/](https://rpc-testnet.gokite.ai/)  
+- Chain ID: 2368  
+- Token: KITE  
+- Block Explorer URL: [https://testnet.kitescan.ai/](https://testnet.kitescan.ai/)  
 
 ## Usage
 
