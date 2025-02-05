@@ -13,7 +13,7 @@ export default function Header({ wallet, connectWallet, disconnectWallet }) {
         )}
 
         <a
-          href="https://github.com/YourGithubRepo"
+          href="https://github.com/gokite-ai/kite_counter_dapp"
           target="_blank"
           rel="noopener noreferrer"
           className="text-[#0077FF] font-medium border border-[#A9D1FF] rounded-md transition-all duration-300 flex items-center justify-center bg-gradient-to-t from-[#E1EFFF] to-[#EFF6FF] hover:from-[#0077FF] hover:to-[#0077FF] hover:text-white  text-md py-2 px-5 cursor-pointer"
