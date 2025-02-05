@@ -47,8 +47,6 @@ Kite AI - Counter Dapp is a decentralized application (dApp) built with **Kite A
 - Add Kite AI Testnet Chain (as custom RPC)
 - Interact with the blockchain-based counter.
 
-## Contributing
-
 ## **Contributing**
 
 We welcome contributions from the community to improve and expand the **Kite AI - Counter Dapp**. Follow the steps below to contribute effectively.
