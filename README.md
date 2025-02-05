@@ -49,4 +49,21 @@ Kite AI - Counter Dapp is a decentralized application (dApp) built with **Kite A
 
 ## Contributing
 
-Contributions are welcome! Feel free to fork the repo and submit a pull request.
+## **Contributing**
+
+We welcome contributions from the community to improve and expand the **Kite AI - Counter Dapp**. Follow the steps below to contribute effectively.
+
+### **How to Contribute**
+1. Fork the Repository – Create a copy of the repository under your GitHub account.  
+2. Create a New Branch – Work on a separate branch for each new feature or fix.  
+3. Make Your Changes – Ensure your code follows project structure and best practices.  
+4. Commit and Push** – Write clear commit messages and push your changes.  
+5. Submit a Pull Request (PR) – Open a PR to merge your changes into the `main` branch.  
+
+### **Guidelines**
+- Follow the project's code style and branching strategy.  
+- Ensure new features work correctly and do not break existing functionality.  
+- Write clear and descriptive commit messages.  
+- Open an Issue for bug reports, improvements, or feature suggestions.  
+
+Thank you for contributing to Kite AI - 🪁 
