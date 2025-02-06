@@ -33,6 +33,13 @@ Kite AI - Counter Dapp is a decentralized application (dApp) built with **Kite A
    npm run dev
    ```
 
+## Usage
+
+- Connect your Ethereum wallet (MetaMask or any compatible wallet)
+- Add Kite AI Testnet Chain (as custom RPC)
+- Acquire testnet tokens to interact with KITEAI chain 
+- Interact with the blockchain-based counter.
+
 ## KiteAI Testnet network settings
 
 - Chain Name: KiteAI Testnet  
@@ -41,11 +48,10 @@ Kite AI - Counter Dapp is a decentralized application (dApp) built with **Kite A
 - Token: KITE  
 - Block Explorer URL: [https://testnet.kitescan.ai/](https://testnet.kitescan.ai/)  
 
-## Usage
+## KiteAI Testnet Faucet
 
-- Connect your Ethereum wallet (MetaMask or any compatible wallet).
-- Add Kite AI Testnet Chain (as custom RPC)
-- Interact with the blockchain-based counter.
+Use the below link to get KITE and USDT tokens on testnet
+- [KiteAI testnet Faucet](https://faucet.gokite.ai/)
 
 ## **Contributing**
 
