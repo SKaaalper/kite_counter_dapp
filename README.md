@@ -21,7 +21,7 @@ Kite AI - Counter Dapp is a decentralized application (dApp) built with **Kite A
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/gokite-ai/kite_counter_dapp
+   git clone https://github.com/SKaaalper/kite_counter_dapp
    cd kite_counter_dapp
    ```
 2. Install dependencies:
